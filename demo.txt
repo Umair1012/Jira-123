@@ -1,3 +1,7 @@
 Hello, My name is umair working on Jira
 
-#This is a docker file
+#This is a docker 
+
+This is my docker file
+
+Pip install django
